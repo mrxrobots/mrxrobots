@@ -1,30 +1,23 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=👾+DarkVector;Bug+Bounty+Hunter;CTF+Player+%7C+HackAstra+2026;SOC+Blue+Team+Learner;Security+Researcher+%F0%9F%94%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=DarkVector+%F0%9F%92%80;Bug+Bounty+Hunter;CTF+Player;SOC+Blue+Team;Security+Researcher" alt="Typing SVG" />
 
-<br/>
+### [ Bug Bounty Hunter | CTF Player | SOC Blue Team | Security Researcher ]
 
 [
 
-![YouTube](https://img.shields.io/badge/YouTube-DarkVector-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-DarkVector-red?style=for-the-badge&logo=youtube)
 
 ](https://youtube.com/@Dark_vector3301)
 [
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://linkedin.com/in/mrxnitin)
-[
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-mrxnitin01-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-mrxnitin01-212C42?style=for-the-badge&logo=tryhackme)
 
 ](https://tryhackme.com/p/mrxnitin01)
 
 </div>
 
 ---
-
-## 🖥️ System Terminal
 
 ```bash
 ┌──[darkvector@github]─[~]
@@ -33,21 +26,19 @@
 
 ┌──[darkvector@github]─[~]
 └─$ cat about.txt
-  ☠️  Hunting bugs on Bugbase & VDP programs
+  ☠️ Currently hunting bugs on Bugbase & VDP programs
   ⚡ Learning SOC / Blue Team operations
   🔐 CTF Player — HackAstra 2026 Qualifier
-  🛠️  Building cybersecurity tools & YouTube content
-  
+  🛠️ Building cybersecurity tools & content
+  📍 Based in Noida, India
 
 ┌──[darkvector@github]─[~]
 └─$ cat skills.json
 {
-  "offensive"  : ["Bug Bounty", "Web App Security", "OSINT", "CTF"],
-  "defensive"  : ["SOC", "Blue Team", "Log Analysis"],
-  "tools"      : ["Burp Suite", "Nmap", "Wireshark", "Aircrack-ng"],
-  "languages"  : ["Python", "Bash", "SQL"]
+  "offensive": ["Bug Bounty", "Web App Security", "OSINT", "CTF"],
+  "defensive": ["SOC", "Blue Team", "Log Analysis"],
+  "tools": ["Burp Suite", "Nmap", "Wireshark", "Aircrack-ng"]
 }
-
 
 
 
